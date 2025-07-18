@@ -28,12 +28,13 @@ nav a:hover {
 main {
     background-color: #FFFFCC;
     padding: 20px;
+    font-size: 16px;
 }
 
 h1 {
     text-align: left;
     font-size: 25px;
-    color: #FF3366;
+    color: #7e0221;
 }
 
 p {
